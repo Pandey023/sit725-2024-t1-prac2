@@ -1,0 +1,22 @@
+{
+  "name": "sit725-2.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandey023/sit725-2024-t1-prac2.git"
+  },
+  "author": "Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandey023/sit725-2024-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/Pandey023/sit725-2024-t1-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
